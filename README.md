@@ -1,8 +1,7 @@
 # Grocery Mart Website
 
 ## Giới thiệu
-Đây là dự án **website** được xây dựng bằng **HTML, CSS, JavaScript thuần** kết hợp **Bootstrap** để tạo giao diện đẹp và **responsive** trên mọi thiết bị.  
-Mục tiêu: Giúp người dùng dễ dàng xem sản phẩm, xem chi tiết và thêm vào giỏ hàng.
+Đây là dự án **website** được xây dựng bằng **HTML, CSS, JavaScript thuần** và **responsive** trên mọi thiết bị.  
 
 ## Công nghệ sử dụng
 - **HTML5**: Cấu trúc nội dung
