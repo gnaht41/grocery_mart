@@ -8,8 +8,6 @@ Mục tiêu: Giúp người dùng dễ dàng xem sản phẩm, xem chi tiết v�
 - **HTML5**: Cấu trúc nội dung
 - **CSS3**: Tùy chỉnh giao diện
 - **JavaScript (Vanilla JS)**: Xử lý tương tác người dùng
-- **[Bootstrap 5](https://getbootstrap.com/)**: Tạo giao diện nhanh và responsive
-- **Responsive Design**: Tương thích với mobile, tablet, desktop
-
+  
 ## Đường dẫn chính: 
 https://gnaht41.github.io/grocery_mart/
