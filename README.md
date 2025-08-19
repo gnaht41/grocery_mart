@@ -6,7 +6,7 @@
 ## Công nghệ sử dụng
 - **HTML5**: Cấu trúc nội dung
 - **CSS3**: Tùy chỉnh giao diện
-- **JavaScript (Vanilla JS)**: Xử lý tương tác người dùng
+- **JavaScript**: Xử lý tương tác người dùng
   
 ## Đường dẫn chính: 
 https://gnaht41.github.io/grocery_mart/
